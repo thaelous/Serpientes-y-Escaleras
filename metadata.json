@@ -1,0 +1,8 @@
+{
+  "name": "SERPIENTES Y ESCALERAS",
+  "description": "Juego de capacitación corporativa y gamificación estilo Serpientes y Escaleras en 5 terrazas con estética industrial Squid Game, 50 casillas, ductos neumáticos, andamios de acero, cartas tácticas y gestión Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

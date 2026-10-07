@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+/* Industrial Dark Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0a0a0c;
+}
+::-webkit-scrollbar-thumb {
+  background: #27272a;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #e11d48;
+}
+
+/* Disable user text selection during game interactions */
+.select-none {
+  user-select: none;
+  -webkit-user-select: none;
+}
